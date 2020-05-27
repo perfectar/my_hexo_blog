@@ -1,2 +1,2 @@
-# my_hexo_blog
+# my hexo blog
 my personal blog backup
